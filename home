@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1"/>
+                <meta charset="utf-8"/>
+<title>landslide-tracker</title>
+<meta name="fb_admins_meta_tag" content="lstracker"/>
+<link rel="shortcut icon" href="http://static.wix.com/client/pfavico.ico" type="image/png"/>
+<link rel="apple-touch-icon" href="http://static.wix.com/client/pfavico.ico" type="image/png"/>
+<link rel="canonical" href="http://www.landslidetracker.com/"/>
+    <meta http-equiv="X-Wix-Renderer-Server" content="apu2.aus"/>
+<meta http-equiv="X-Wix-Meta-Site-Id" content="6100c7bb-fc60-4916-a17c-90ad1bcf6332"/>
+<meta http-equiv="X-Wix-Application-Instance-Id" content="92c9beaf-056c-44fe-99c2-fdfb9c146e85"/>
+<meta http-equiv="X-Wix-Published-Version" content="149"/>
+<meta http-equiv="etag" content="d4ec8b8bd61a787582451fd67c80e54e"/>
+<meta name="robots" content="noindex"/>
+<meta property="og:title" content="landslide-tracker"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.landslidetracker.com/"/>
+<meta property="og:image" content="http://static.wixstatic.com/media/48f01e_344537b52e804facafd6b2c234fe1cac.png"/>
+<meta property="og:site_name" content="landslide-tracker"/>
+<meta property="fb:admins" content="lstracker"/>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
+
+<meta id="wixMobileViewport" name="viewport" content="minimum-scale=0.25, maximum-scale=1.2"/>
+        
+     <!--
+    IMPORTANT! LOOKING FOR THIS SITE'S SEO CONTENT?
+
+    This site's SEO content, such as meta tags and headers, is not here.
+    This is because search engines, like Google, actually crawl the site's homepage via http://www.landslidetracker.com/?_escaped_fragment_=
+
+    Internal pages, like “Rainfall 168 Hours”, also have their own special search engine versions, for example: http://www.landslidetracker.com/?_escaped_fragment_=rainfall-168-hours%2Fc1tuk
+    If you're looking for this site's SEO content, that's where you can view it.
+
+    Want more information about Ajax page crawling? Read Google's explanation here: http://bit.ly/ajaxcrawling
+-->
+<!-- META DATA -->
+<script type="text/javascript">
+    var rendererModel = {"debugMode":"nodebug","previewMode":false,"serviceMappings":{"1":{"idInMetaSite":1,"idInApp":"92c9beaf-056c-44fe-99c2-fdfb9c146e85","applicationType":"HtmlWeb"}},"metaSiteId":"6100c7bb-fc60-4916-a17c-90ad1bcf6332","premiumFeatures":["HasDomain","ShowWixWhileLoading","AdsFree"],"siteId":"92c9beaf-056c-44fe-99c2-fdfb9c146e85","userId":"48f01ef6-51a8-43ba-8993-f1fcae5db7e1","published":true,"revision":149,"applicationType":"HtmlWeb","documentType":"UGC","siteTitleSEO":"landslide-tracker","clientSpecMap":{"13":{"type":"sitemembers","applicationId":13,"collectionType":"Open","smcollectionId":"2ac0886d-cb58-4afe-8b50-f31374b772b4"},"2":{"type":"appbuilder","applicationId":2,"appDefinitionId":"3d590cbc-4907-4cc4-b0b1-ddf2c5edf297","instanceId":"13637abc-5c11-72bf-fe8e-30bc64f71106","state":"Initialized"},"14":{"type":"wixapps","applicationId":14,"appDefinitionId":"61f33d50-3002-4882-ae86-d319c1a249ab","datastoreId":"13637abc-5dd2-9ea9-c262-271f35233b93","packageName":"blog","state":"Initialized","widgets":{"56ab6fa4-95ac-4391-9337-6702b8a77011":{"widgetId":"56ab6fa4-95ac-4391-9337-6702b8a77011","defaultHeight":400,"defaultWidth":210},"31c0cede-09db-4ec7-b760-d375d62101e6":{"widgetId":"31c0cede-09db-4ec7-b760-d375d62101e6","defaultHeight":600,"defaultWidth":680},"1b8c501f-ccc2-47e7-952a-47e264752614":{"widgetId":"1b8c501f-ccc2-47e7-952a-47e264752614","defaultHeight":280,"defaultWidth":916},"33a9f5e0-b083-4ccc-b55d-3ca5d241a6eb":{"widgetId":"33a9f5e0-b083-4ccc-b55d-3ca5d241a6eb","defaultHeight":220,"defaultWidth":210},"f72fe377-8abc-40f2-8656-89cfe00f3a22":{"widgetId":"f72fe377-8abc-40f2-8656-89cfe00f3a22","defaultHeight":300,"defaultWidth":210},"c340212a-6e2e-45cd-9dc4-58d01a5b63a7":{"widgetId":"c340212a-6e2e-45cd-9dc4-58d01a5b63a7","defaultHeight":300,"defaultWidth":210},"ea63bc0f-c09f-470c-ac9e-2a408b499f22":{"widgetId":"ea63bc0f-c09f-470c-ac9e-2a408b499f22","defaultHeight":800,"defaultWidth":800},"4de5abc5-6da2-4f97-acc3-94bb74285072":{"widgetId":"4de5abc5-6da2-4f97-acc3-94bb74285072","defaultHeight":800,"defaultWidth":800},"e000b4bf-9ff1-4e66-a0d3-d4b365ba3af5":{"widgetId":"e000b4bf-9ff1-4e66-a0d3-d4b365ba3af5","defaultHeight":400,"defaultWidth":210},"43c2a0a8-f224-4a29-bd19-508114831a3a":{"widgetId":"43c2a0a8-f224-4a29-bd19-508114831a3a","defaultHeight":40,"defaultWidth":210}}},"15":{"type":"public","applicationId":15,"appDefinitionId":"12aacf69-f3fb-5334-2847-e00a8f13c12f","appDefinitionName":"Form Builder","instance":"mFJBSH49ROeHiGAKyEGhjELM7N5Rt3_0_R1dTi4e73M.eyJpbnN0YW5jZUlkIjoiMTM2M2M2OGQtZTYxZi00YjVkLTNkZWYtYzE1MWQxZTUwM2QxIiwic2lnbkRhdGUiOiIyMDE0LTA0LTE1VDIwOjUxOjAwLjEyOC0wNTowMCIsImlwQW5kUG9ydCI6IjI0LjkxLjE0MC4yMjQvMzg1NDQiLCJkZW1vTW9kZSI6ZmFsc2V9","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{"12aacf69-f3be-4d15-c1f5-e10b8281822e":{"widgetUrl":"http://www.123contactform.com/wix.php","widgetId":"12aacf69-f3be-4d15-c1f5-e10b8281822e","refreshOnWidthChange":true,"mobileUrl":"http://www.123contactform.com/wix.php?forcemobile=1","published":true,"mobilePublished":true,"seoEnabled":true}},"appRequirements":{"requireSiteMembers":false}},"16":{"type":"public","applicationId":16,"appDefinitionId":"133c8e95-912a-8826-fa26-5a00a9bcf574","appDefinitionName":"POWr Form Builder","instance":"tTSV5QFsOWbrsAS_vZglgA2tybqvL7Pllf0jfYr8vCI.eyJpbnN0YW5jZUlkIjoiMTM2M2NhZTEtODU2ZS1hYjA1LTM0YjYtMjFkYWVhOGVhZjg5Iiwic2lnbkRhdGUiOiIyMDE0LTA0LTE1VDIwOjUxOjAwLjEyOC0wNTowMCIsImlwQW5kUG9ydCI6IjI0LjkxLjE0MC4yMjQvMzg1NDQiLCJkZW1vTW9kZSI6ZmFsc2V9","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{"133c8eb5-1cf8-3b17-ea6e-02ae4cc2e2a6":{"widgetUrl":"http://www.powr.io/plugins/form-builder/wix_view","widgetId":"133c8eb5-1cf8-3b17-ea6e-02ae4cc2e2a6","refreshOnWidthChange":true,"mobileUrl":"http://www.powr.io/plugins/form-builder/wix_view","published":true,"mobilePublished":true,"seoEnabled":true}},"appRequirements":{"requireSiteMembers":false}}},"runningExperiments":{"hidepages":"new","textSlideUp":"New","NoIndexPerPage":"New","EcomExp7":"New","EcomExp2":"New","PageNavigationFix":"New","facebooklikebox":"new","EcomExp3":"New","PinItPinWidget":"New","newsmversion2":"new","wixappszoomresize":"new","BulkPageWixify":"new","useClientNewDeployViewer":"true","ImageButton":"New","GalleryServerCrop":"New","denisskinpack2":"new","ActivateInitFromStatic":"new","googleanalyticschangetodoubleclick":"new","EcomGalleries":"New","pinterestPinIt":"new","Perfexperiments":"new","NewSkins2":"New","InitFromStatic":"new","BasicMenu":"New","Mp3FromGoogleCdn":"New","animationphase1":"new","safariQSpeed":"New","WixAppsGalleries":"New","LinkRefData":"New","editorMenu":"New","extendedmusicplayer":"new","AreaScotchTapeSkinPack":"New","EcomGalleryFix1435":"New","Anchor":"new","PerfClasses":"new","NoQInWixifyPage":"new","AddPageIdToComponents":"new","feedme":"new","clippedParagraphSafariFix":"New","singleaudioplayer":"new"},"languageCode":"en","scriptsCacheKiller":1,"siteMetaData":{"preloader":{"enabled":false},"hasMobileStructure":false,"quickActions":{"socialLinks":[],"colorScheme":"dark","configuration":{"quickActionsMenuEnabled":false,"navigationMenuEnabled":true,"phoneEnabled":false,"emailEnabled":false,"addressEnabled":false,"socialLinksEnabled":false}},"contactInfo":{"companyName":"","phone":"","fax":"","email":"","address":""}},"geo":"USA"};
+    var publicModel = {"externalBaseUrl":"http://www.landslidetracker.com/","domain":"landslidetracker.com","premiumFeatures":["HasDomain","ShowWixWhileLoading","AdsFree"],"language":"en","favicon":"","suppressTrackingCookies":false,"pageList":{"masterPage":["http://static.parastorage.com/sites/48f01e_e20bf39455a39a2f8619d9bb56a9837d_145.json.z?v=2","http://archive.wix.com/sites/48f01e_e20bf39455a39a2f8619d9bb56a9837d_145.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_e20bf39455a39a2f8619d9bb56a9837d_145.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_e20bf39455a39a2f8619d9bb56a9837d_145.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_e20bf39455a39a2f8619d9bb56a9837d_145.json"],"pages":[{"pageId":"c1tuk","title":"Rainfall 168 Hours","urls":["http://static.parastorage.com/sites/48f01e_17dec568876d685ec916cce54b9d7ce2_125.json.z?v=2","http://archive.wix.com/sites/48f01e_17dec568876d685ec916cce54b9d7ce2_125.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_17dec568876d685ec916cce54b9d7ce2_125.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_17dec568876d685ec916cce54b9d7ce2_125.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_17dec568876d685ec916cce54b9d7ce2_125.json"]},{"pageId":"c143u","title":"Landslide Notes","urls":["http://static.parastorage.com/sites/48f01e_1a506d40a52e761e5d9a0a5c7a40738b_139.json.z?v=2","http://archive.wix.com/sites/48f01e_1a506d40a52e761e5d9a0a5c7a40738b_139.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_1a506d40a52e761e5d9a0a5c7a40738b_139.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_1a506d40a52e761e5d9a0a5c7a40738b_139.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_1a506d40a52e761e5d9a0a5c7a40738b_139.json"]},{"pageId":"c116r","title":"Landslide Prediction","urls":["http://static.parastorage.com/sites/48f01e_22ca205162b89e4f056e286064cd409a_133.json.z?v=2","http://archive.wix.com/sites/48f01e_22ca205162b89e4f056e286064cd409a_133.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_22ca205162b89e4f056e286064cd409a_133.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_22ca205162b89e4f056e286064cd409a_133.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_22ca205162b89e4f056e286064cd409a_133.json"]},{"pageId":"c1lq5","title":"Susceptibility Map","urls":["http://static.parastorage.com/sites/48f01e_3cba8de858977c586af68f2495aec9f1_93.json.z?v=2","http://archive.wix.com/sites/48f01e_3cba8de858977c586af68f2495aec9f1_93.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_3cba8de858977c586af68f2495aec9f1_93.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_3cba8de858977c586af68f2495aec9f1_93.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_3cba8de858977c586af68f2495aec9f1_93.json"]},{"pageId":"cyo9","title":"Rainfall 72 Hours","urls":["http://static.parastorage.com/sites/48f01e_456fe19f0e7cd8e0ecb1708c82a62312_125.json.z?v=2","http://archive.wix.com/sites/48f01e_456fe19f0e7cd8e0ecb1708c82a62312_125.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_456fe19f0e7cd8e0ecb1708c82a62312_125.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_456fe19f0e7cd8e0ecb1708c82a62312_125.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_456fe19f0e7cd8e0ecb1708c82a62312_125.json"]},{"pageId":"mainPage","title":"Home","urls":["http://static.parastorage.com/sites/48f01e_4777bfc727d2f761870d5da7a06c36be_141.json.z?v=2","http://archive.wix.com/sites/48f01e_4777bfc727d2f761870d5da7a06c36be_141.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_4777bfc727d2f761870d5da7a06c36be_141.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_4777bfc727d2f761870d5da7a06c36be_141.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_4777bfc727d2f761870d5da7a06c36be_141.json"]},{"pageId":"c16bw","title":"Simplified","urls":["http://static.parastorage.com/sites/48f01e_4e45cf919748af8aa9b3e29d5d758fcc_138.json.z?v=2","http://archive.wix.com/sites/48f01e_4e45cf919748af8aa9b3e29d5d758fcc_138.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_4e45cf919748af8aa9b3e29d5d758fcc_138.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_4e45cf919748af8aa9b3e29d5d758fcc_138.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_4e45cf919748af8aa9b3e29d5d758fcc_138.json"]},{"pageId":"cera","title":"Landslide Tracker","urls":["http://static.parastorage.com/sites/48f01e_55a21f22ccfc27bc42a10225418db9df_133.json.z?v=2","http://archive.wix.com/sites/48f01e_55a21f22ccfc27bc42a10225418db9df_133.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_55a21f22ccfc27bc42a10225418db9df_133.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_55a21f22ccfc27bc42a10225418db9df_133.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_55a21f22ccfc27bc42a10225418db9df_133.json"]},{"pageId":"cema","title":"Detailed","urls":["http://static.parastorage.com/sites/48f01e_5ea159a1bfc9f4faa1fd6970d3846572_137.json.z?v=2","http://archive.wix.com/sites/48f01e_5ea159a1bfc9f4faa1fd6970d3846572_137.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_5ea159a1bfc9f4faa1fd6970d3846572_137.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_5ea159a1bfc9f4faa1fd6970d3846572_137.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_5ea159a1bfc9f4faa1fd6970d3846572_137.json"]},{"pageId":"c1wg9","title":"Alerts","urls":["http://static.parastorage.com/sites/48f01e_65ddbc10ba9a3aed84c31c4498e79073_133.json.z?v=2","http://archive.wix.com/sites/48f01e_65ddbc10ba9a3aed84c31c4498e79073_133.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_65ddbc10ba9a3aed84c31c4498e79073_133.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_65ddbc10ba9a3aed84c31c4498e79073_133.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_65ddbc10ba9a3aed84c31c4498e79073_133.json"]},{"pageId":"cpbs","title":"Analytics","urls":["http://static.parastorage.com/sites/48f01e_76917c684fd3d95a22193b2b114a5ac7_147.json.z?v=2","http://archive.wix.com/sites/48f01e_76917c684fd3d95a22193b2b114a5ac7_147.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_76917c684fd3d95a22193b2b114a5ac7_147.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_76917c684fd3d95a22193b2b114a5ac7_147.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_76917c684fd3d95a22193b2b114a5ac7_147.json"]},{"pageId":"c1x22","title":"Rainfall 24 Hours","urls":["http://static.parastorage.com/sites/48f01e_908e3f86b0508c959f9fc459a12a60b0_125.json.z?v=2","http://archive.wix.com/sites/48f01e_908e3f86b0508c959f9fc459a12a60b0_125.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_908e3f86b0508c959f9fc459a12a60b0_125.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_908e3f86b0508c959f9fc459a12a60b0_125.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_908e3f86b0508c959f9fc459a12a60b0_125.json"]},{"pageId":"cnu2","title":"Landslide Reporting","urls":["http://static.parastorage.com/sites/48f01e_9ad16a236545b7565e92c227fc47d598_132.json.z?v=2","http://archive.wix.com/sites/48f01e_9ad16a236545b7565e92c227fc47d598_132.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_9ad16a236545b7565e92c227fc47d598_132.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_9ad16a236545b7565e92c227fc47d598_132.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_9ad16a236545b7565e92c227fc47d598_132.json"]},{"pageId":"c1aku","title":"Rainfall","urls":["http://static.parastorage.com/sites/48f01e_ff663013c584d373d76d6de06da57e23_125.json.z?v=2","http://archive.wix.com/sites/48f01e_ff663013c584d373d76d6de06da57e23_125.json.z?v=2","http://www.landslidetracker.com/sites/48f01e_ff663013c584d373d76d6de06da57e23_125.json.z?v=2","http://fallback.wix.com/wix-html-editor-pages-webapp/page/48f01e_ff663013c584d373d76d6de06da57e23_125.json","http://publicorigin.wix.com/wix-public-html-renderer/page/48f01e_ff663013c584d373d76d6de06da57e23_125.json"]}],"mainPageId":"mainPage"},"siteRevision":149,"timeSincePublish":83263355,"adaptiveMobileOn":true};
+    var serviceTopology = {"serverName":"apu2.aus","cacheKillerVersion":"1","staticServerUrl":"http://static.wix.com/","usersScriptsRoot":"http://static.parastorage.com/services/wix-users/2.348.0","biServerUrl":"http://frog.wix.com/","userServerUrl":"http://users.wix.com/","billingServerUrl":"http://premium.wix.com/","mediaRootUrl":"http://static.wixstatic.com/","logServerUrl":"http://frog.wix.com/plebs","monitoringServerUrl":"http://TODO/","usersClientApiUrl":"https://users.wix.com/wix-users","publicStaticBaseUri":"http://static.parastorage.com/services/wix-public/1.102.0","basePublicUrl":"http://www.wix.com/","postLoginUrl":"http://www.wix.com/my-account","postSignUpUrl":"http://www.wix.com/new/account","baseDomain":"wix.com","staticMediaUrl":"http://static.wixstatic.com/media","staticAudioUrl":"http://media.wix.com/mp3","emailServer":"http://assets.wix.com/common-services/notification/invoke","blobUrl":"http://static.parastorage.com/wix_blob","htmlEditorUrl":"http://editor.wix.com/html","siteMembersUrl":"https://users.wix.com/wix-sm","scriptsLocationMap":{"bootstrap":"http://static.parastorage.com/services/bootstrap/2.800.8","wix-insta-template":"http://static.parastorage.com/services/experiments/wix-insta-template/1.8.0","facebooklikebox":"http://static.parastorage.com/services/experiments/facebooklikebox/1.5.0","wixapps":"http://static.parastorage.com/services/wixapps/2.353.4","addcomponentviamediagallery":"http://static.parastorage.com/services/experiments/addcomponentviamediagallery/1.15.0","anchor":"http://static.parastorage.com/services/experiments/anchor/1.29.0","ecomfeedback":"http://static.parastorage.com/services/experiments/ecomfeedback/1.12.0","wixlive":"http://static.parastorage.com/services/experiments/wixlive/1.9.0","backtotopbutton":"http://static.parastorage.com/services/experiments/backtotopbutton/1.8.0","hotfixes":"http://static.parastorage.com/services/experiments/hotfixes/1.7.0","langs":"http://static.parastorage.com/services/langs/2.348.0","verifypremium":"http://static.parastorage.com/services/experiments/verifypremium/1.8.0","imagebutton":"http://static.parastorage.com/services/experiments/imagebutton/1.20.0","it":"http://static.parastorage.com/services/experiments/it/1.33.0","animationphase1":"http://static.parastorage.com/services/experiments/animationphase1/1.33.0","pinitpinwidget":"http://static.parastorage.com/services/experiments/pinitpinwidget/1.14.0","ecommerce":"http://static.parastorage.com/services/ecommerce/1.164.0","automation":"http://static.parastorage.com/services/automation/1.21.0","web":"http://static.parastorage.com/services/web/2.800.8","ut":"http://static.parastorage.com/services/experiments/ut/1.2.0","tpa":"http://static.parastorage.com/services/tpa/2.760.0","ck-editor":"http://static.parastorage.com/services/ck-editor/1.60.0","animationeditorphase1":"http://static.parastorage.com/services/experiments/animationeditorphase1/1.16.0","sitemembers":"http://static.parastorage.com/services/sm-js-sdk/1.31.0","packagepicker":"http://static.parastorage.com/services/experiments/packagepicker/1.3.0","feedme":"http://static.parastorage.com/services/experiments/feedme/1.40.0","pinterestpinit":"http://static.parastorage.com/services/experiments/pinterestpinit/1.13.0","core":"http://static.parastorage.com/services/core/2.800.8","mobilequicktour":"http://static.parastorage.com/services/experiments/mobilequicktour/1.11.0","singleaudioplayer":"http://static.parastorage.com/services/experiments/singleaudioplayer/1.30.0","skins":"http://static.parastorage.com/services/skins/2.800.8","editormenu":"http://static.parastorage.com/services/experiments/editormenu/1.132.0"},"developerMode":false,"userFilesUrl":"http://static.wix.com/","staticHTMLComponentUrl":"http://www.landslidetracker.com.usrfiles.com/","secured":false,"ecommerceCheckoutUrl":"https://www.safer-checkout.com/","premiumServerUrl":"https://premium.wix.com/","appRepoUrl":"http://assets.wix.com/wix-lists-ds-webapp","staticDocsUrl":"http://media.wix.com/ugd","publicStaticsUrl":"http://static.parastorage.com/services/wix-public/1.102.0"};
+    var siteHeader = {"id":"92c9beaf-056c-44fe-99c2-fdfb9c146e85", "userId":"48f01ef6-51a8-43ba-8993-f1fcae5db7e1"};
+    var siteId = siteHeader.id;
+
+    var configUrls = serviceTopology;
+
+    var debugMode = "nodebug";
+    var viewMode = (rendererModel.previewMode) ? 'preview' : 'site';
+
+    var googleAnalytics = ""
+    ;
+
+</script>
+
+
+    <meta name="fragment" content="!"/>
+        <!-- DATA -->
+<script type="text/javascript">
+    var adData = {};
+    var mobileAdData = {};
+    var usersDomain = "https://users.wix.com//wix-users";
+        </script>
+
+
+
+<script src="http://static.parastorage.com/services/wix-users/2.348.0/client/js/userApi_v2.js?cacheKiller=1"></script>
+<script src="http://static.parastorage.com/services/wix-users/2.348.0/user-api/user-api.min.js?cacheKiller=1"></script>
+
+
+
+<script type="text/javascript">
+    var userApi = UserApi.getInstance().init({
+        "usersDomain":"http://users.wix.com//wix-users",
+        "corsEnabled":false,
+        "dontHandShake":true,
+        "urlThatUserRedirectedFrom":"$"
+    });
+
+    UserServerApi.setOptions({
+        "usersDomain":"http://users.wix.com//wix-users",
+        "urlParams": { "urlThatUserRedirectedFrom" : "$" }
+    });
+</script>
+
+    </head>
+<body>
+    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+
+    <link rel="stylesheet" type="text/css" href="http://static.wix.com/services/web/2.800.8/css/wysiwyg/preloader.css">
+
+<div id="viewer_preloader">
+    <p>Loading</p>
+    <h2></h2>
+    <div id="preloader"></div>
+</div>
+
+<script type="text/javascript" src="http://static.wix.com/services/core/2.800.8/javascript/core/utils/mobile_utils.js"></script>
+<script type="text/javascript" src="http://static.wix.com/services/web/2.800.8/javascript/wysiwyg/viewer/preloader.js"></script>
+    
+            <!-- debug mode=nodebug -->
+<!-- anc2 -->
+<script type="text/javascript">
+var anchors = {};
+
+
+</script>
+
+<script src="http://static.parastorage.com/services/bootstrap/2.800.8/javascript/bootstrap.min.js"></script>
+<script src="http://static.parastorage.com/services/web/2.800.8/deployviewer.min.js"></script>
+    
+    
+        
+    
+<!-- No Footer -->
+
+    
+    
+<script>
+    window.define && define.resource('status.structure.loaded', true);
+</script>
+
+
+
+    <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","c99d7f1ab0","1963269,1963270","ZFAHNkNYXUBQVEUKXF0aKDRyFmRWU39FDl9hUAsGVEtWQR9FVA1XVkc=",0,13,new Date().getTime(),"","","","",""]);</script>
+</body>
+</html>
