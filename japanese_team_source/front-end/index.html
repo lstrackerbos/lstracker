@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Potential Landslides</title>
+<meta name="apple-mobile-web-app-title" content="Landslides">
+<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+<meta name="format-detection" content="telephone=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<!-- <link rel="apple-touch-startup-image" href="../_common/img/start.jpg"> -->
+<link rel="apple-touch-icon" href="./img/mainIcon.png">
+<link rel="shortcut icon" href="./img/mainIcon.png">
+<link rel="stylesheet" href="./css/lib/bootstrap.min.css">
+<link rel="stylesheet" href="./css/screen.css">
+</head>
+<body>
+<header id="header">
+  <nav class="navbar navbar-default" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+      <a class="navbar-brand" href="index.html">Potential Landslides</a>
+    </div>
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+      <ul class="nav navbar-nav navbar-left">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="daySpan">After 1day</span><b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="1">After 1day</a></li>
+            <li><a href="3">After 3day</a></li>
+            <li><a href="7">After 7day</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li id="titleLink">
+          <form id="searchForm" class="navbar-form navbar-left" role="search">
+            <div class="form-group">
+              <input type="text" id="mapLocation" class="form-control" placeholder="Search Location">
+            </div>
+            <!-- <button type="submit" class="btn btn-default">Submit</button> -->
+          </form>
+
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </nav>
+</header><!-- /#header -->
+<main id="contents">
+  <div id="map_canvas"></div>
+</main><!-- /#contents -->
+<footer id="footer">
+  <ul class="pager">
+    <li id="prevBtn"><a href="#">Prev Point</a></li>
+    <li><span><em id="nowNum">1</em>/<em id="maxNum">--</em></span></li>
+    <li id="nextBtn"><a href="#">Next Point</a></li>
+  </ul>
+</footer><!-- /#footer -->
+<div id="loadingArea"><p><span class="loadAnim"></span>Now Loading</p></div><!-- /#loading -->
+<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+<script src="./js/jquery-1.11.0.min.js"></script>
+<script src="./js/bootstrap.min.js"></script>
+<script src="./js/script.js"></script>
+</body>
+</html>

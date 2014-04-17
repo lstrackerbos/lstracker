@@ -1,0 +1,26 @@
+/* loading
+**************************************/
+#loadingArea{
+	position:absolute;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	z-index:9;
+	display:none;
+	background-color: rgba(0,0,0,0.6);
+	p{
+		position:absolute;
+		top:50%;
+		left:0;
+		margin-top: -0.6em;
+		width:100%;
+		color:#fff;
+		text-align:center;
+		&:before{
+			margin-right: 5px;
+			content: url(../img/loading.gif);
+			vertical-align:middle;
+		}
+	}
+}

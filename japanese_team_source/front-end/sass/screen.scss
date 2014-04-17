@@ -1,0 +1,49 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass";
+@import "compass/reset";
+
+html,
+body,
+#contents,
+#map_canvas{
+	width: 100%;
+	height: 100%;
+}
+body{
+	padding-top: 52px; 
+	@include box-sizing(border-box);
+}
+.infoWindow{
+	min-width: 150px; 
+	overflow: hidden;
+	h1{
+		margin-bottom: 5px;
+		font-size: 14px;
+		font-weight: bold;
+	}
+	dl{
+		dt{
+			position: absolute;
+			font-weight: bold;
+		}
+		dd{
+			margin: 0 0 4px 4em; 
+			&:before{
+				content: ":";
+				margin: 0 5px; 
+			}
+		}
+	}
+}
+.gm-style-iw + div{
+  top: 6px !important;
+  right: 5px !important;
+}
+
+@import "modules/header";
+@import "modules/footer";
+@import "modules/loading";

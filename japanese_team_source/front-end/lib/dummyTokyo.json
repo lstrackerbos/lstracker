@@ -1,0 +1,38 @@
+{
+    "queryKeyword": "tokyo", 
+    "results": [
+        {
+            "cause": "rain", 
+            "condition": "likely", 
+            "country": "Japan", 
+            "lat": "35.681382", 
+            "lon": "139.766084", 
+            "place": "Tokyo"
+        }, 
+        {
+            "cause": "rain", 
+            "condition": "likely", 
+            "country": "Brazil", 
+						"lat" : "-10.38",
+						"lon" : "-47.62",
+            "place" : "PORTO NACIONAL"
+        }, 
+        {
+            "cause": "rain", 
+            "condition": "likely", 
+            "country": "Japan", 
+            "lat": "35.681382", 
+            "lon": "139.866084", 
+            "place": "Tokyo"
+        }, 
+        {
+            "cause": "rain", 
+            "condition": "likely", 
+            "country": "Japan", 
+            "lat": "35.681382", 
+            "lon": "139.966084", 
+            "place": "Tokyo"
+        }
+    ], 
+    "returnCount": 3
+}

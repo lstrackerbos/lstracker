@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>landslide - home</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="../libs/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../libs/hook/hook.css">
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../css/home.css">
+
+    <!-- default load javascript -->
+    <script type="text/javascript" src="../libs/jquery/jquery-2.0.3.min.js"></script>
+    <script type="text/javascript" src="../libs/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../libs/handlebars/handlebars.js"></script>
+    <script type="text/javascript" src="../js/common.js"></script>
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	</head>
+<body>
+	<!-- nav -->
+<div class="navbar navbar-default" style="margin-bottom: -15px;">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="#">Landslide<br / >Tracker</a>
+  </div>
+  <div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Rainfall</a></li>
+      <li><a href="#">Landslide<br />Reporting</a></li>
+      <li><a href="#">Landslide<br />Tracker</a></li>
+      <li><a href="#">Alerts</a></li>
+    </ul>
+  </div>
+</div>	
+<div class="content">
+	 <div id="map3d"></div>
+</div>
+	 <!-- script -->
+	  <script type="text/javascript">
+	    var ge;
+	    google.load("earth", "1", {"other_params":"sensor=true_or_false"});
+	
+	    function init() 
+	    {
+	      google.earth.createInstance('map3d', initCB, failureCB);
+	    }
+	
+	    function initCB(instance) 
+	    {
+	      ge = instance;
+	      ge.getWindow().setVisibility(true);
+	      getForecastData();
+	    }
+	
+	    function failureCB(errorCode) 
+	    {
+	    }
+	
+	    google.setOnLoadCallback(init);
+	    
+	    function getForecastData()
+	    {
+            var obj = new Object();
+            var reqUrl = DUMMY_SWAGGER_URL_DOMAIN + "getForecast.php";
+            httpRequest.get(reqUrl,"json",obj,successFunc);
+	    }
+	    
+	    var _json;
+	    var successFunc = function(responseData)
+	    {
+	    	cl(responseData);
+	    	_json = responseData;
+	    	addIcon(responseData);
+	    }
+	    
+	    function addIcon(json)
+	    {
+	    	var forecastDatas = json.results;
+	    	
+	    	for (var i = 0; i < forecastDatas.length; i++)
+	    	{
+	    		var forecast = forecastDatas[i];
+	    		cl(forecast);
+				var placemark = ge.createPlacemark('');
+				placemark.setName(forecast.place);
+				
+				// Set the placemark's location.  
+				var point = ge.createPoint('');
+				point.setLatitude(forecast.lat);
+				point.setLongitude(forecast.lng);
+				placemark.setGeometry(point);
+				
+				ge.getFeatures().appendChild(placemark);
+	    	}
+	    }
+	    
+	  </script>
+	  
+	  </body>
+</html>

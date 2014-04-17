@@ -1,0 +1,182 @@
+{
+	"queryKeyword": "All", 
+	"results": [
+		{
+			"country" : "Brazil",
+			"place" : "PORTO NACIONAL ARPT",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "-10.38",
+			"lon" : "-47.62"
+		},
+		{
+			"country" : "Brazil",
+			"place" : "PORTO NACIONAL ARPT",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "-10.38",
+			"lon" : "-47.38"
+		},
+		{
+			"country" : "Brazil",
+			"place" : "PORTO NACIONAL",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "-10.12",
+			"lon" : "-48.62"
+		},
+		{
+			"country" : "Brazil",
+			"place" : "PORTO NACIONAL",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "-10.12",
+			"lon" : "-48.38"
+		},
+		{
+			"country" : "Brazil",
+			"place" : "PORTO NACIONAL ARPT",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "-10.12",
+			"lon" : "-47.38"
+		},
+		{
+			"country" : "Indonesia",
+			"place" : "CILACAP/TUNGGUL WUL",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "-7.62",
+			"lon" : "108.88"
+		},
+		{
+			"country" : "Brazil",
+			"place" : "CARAJAS/MARABA",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "-5.88",
+			"lon" : "-49.62"
+		},
+		{
+			"country" : "Brazil",
+			"place" : "MARABA",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "-5.12",
+			"lon" : "-49.62"
+		},
+		{
+			"country" : "China",
+			"place" : "TAI-SHAN",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "22.38",
+			"lon" : "112.38"
+		},
+		{
+			"country" : "China",
+			"place" : "HUI-YANG",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "23.12",
+			"lon" : "113.88"
+		},
+		{
+			"country" : "China",
+			"place" : "GUANGZHOU",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "23.38",
+			"lon" : "113.62"
+		},
+		{
+			"country" : "China",
+			"place" : "HEYUAN",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "23.38",
+			"lon" : "114.88"
+		},
+		{
+			"country" : "China",
+			"place" : "FOGANG",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "23.62",
+			"lon" : "113.12"
+		},
+		{
+			"country" : "China",
+			"place" : "FOGANG",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "23.62",
+			"lon" : "113.62"
+		},
+		{
+			"country" : "China",
+			"place" : "FOGANG",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "23.62",
+			"lon" : "113.88"
+		},
+		{
+			"country" : "China",
+			"place" : "HEYUAN",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "23.62",
+			"lon" : "114.12"
+		},
+		{
+			"country" : "China",
+			"place" : "HEYUAN",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "23.62",
+			"lon" : "115.12"
+		},
+		{
+			"country" : "China",
+			"place" : "FOGANG",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "23.88",
+			"lon" : "113.62"
+		},
+		{
+			"country" : "China",
+			"place" : "MEI XIAN",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "24.12",
+			"lon" : "116.38"
+		},
+		{
+			"country" : "China",
+			"place" : "MEI XIAN",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "24.12",
+			"lon" : "116.62"
+		},
+		{
+			"country" : "United States",
+			"place" : "ST LOUIS NEXRAD",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "38.62",
+			"lon" : "-91.38"
+		},
+		{
+			"country" : "United States",
+			"place" : "SPIRIT OF ST LOUIS",
+			"cause" : "rain",
+			"condition" : "LIKELY",
+			"lat" : "38.62",
+			"lon" : "-90.62"
+		}
+	], 
+	"returnCount": 22
+}
